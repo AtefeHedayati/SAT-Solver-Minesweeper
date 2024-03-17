@@ -1,11 +1,8 @@
 # SAT-Solver-Minesweeper
 
-*implements  Minesweeper using Python. 
-*The problem we consider here is 
-the given 9x9 grid.
-*Using Minisat22() SAT solver in Python
-
-
+* Implements Minesweeper using Python.
+* Solves a 9x9 grid problem.
+* Utilizes the Minisat22() SAT solver in Python.
 
 
 ## Structures
